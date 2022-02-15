@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @burakrzgr
+- 👋 Hi, I’m Burak RÜZGAR
 - 👀 I’m interested in Coding, Reading, Drawing
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
