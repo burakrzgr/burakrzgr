@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Reading, Drawing
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me "burakrzgr@gmail"
+- 📫 How to reach me "burakrzgr@gmail.com"
 
 <!---
 burakrzgr/burakrzgr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
