@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Burak RÜZGAR
 - 👀 I’m interested in Coding, Reading, Drawing
 - 🌱 I’m currently learning React, React Native, Angular
-- 📖 I have experience in C#
+- 📖 I have experience in C#, Mssql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "burakrzgr@gmail.com"
 
